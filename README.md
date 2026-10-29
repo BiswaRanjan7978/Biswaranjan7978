@@ -75,15 +75,11 @@ I'm a Java backend developer interested in building maintainable applications, d
       </a>
     </td>
     <td width="50%">
-      <h3>💻 TestProject</h3>
+      <h3>💻 🤖 OpenAI Project</h3>
       <p>Explore my development and testing repository.</p>
-      <a href="https://github.com/Biswaranjan7978/TestProject">
-        <img src="https://img.shields.io/badge/Explore%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore TestProject"/>
+      <a href="https://github.com/BiswaRanjan7978/openai">
+        <img src="https://img.shields.io/badge/Explore%20Repository-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Explore OpenAI Project"/>
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <h3>🤖 OpenAI Project</h3>
-      <p>Explore my recent OpenAI-related project and AI development work.</p>
-      <a href="https
+  
