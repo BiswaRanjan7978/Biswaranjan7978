@@ -1,76 +1,127 @@
-# Hi, I'm Biswaranjan 👋
 
-### Java Backend Developer | Spring Boot | Microservices | Cloud & AI
+<!-- ========== COLORFUL PROFILE HEADER ========== -->
 
-I build backend applications and explore modern technologies to create reliable, scalable, and maintainable software.
+<div align="center">
 
-I'm currently expanding my knowledge of **Spring AI** and exploring how AI capabilities can be integrated into Java applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=220&section=header&text=Biswaranjan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer%20%7C%20Spring%20AI%20Learner&descSize=17&descAlignY=58" width="100%" alt="Profile header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+reliable+backend+applications;Exploring+microservices+and+cloud+systems;Learning+Spring+AI+and+LLM+integration" alt="Animated introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/Biswaranjan7978">
+    <img src="https://img.shields.io/badge/GitHub-Biswaranjan7978-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00C9A7?style=for-the-badge" alt="Backend engineering"/>
+  <img src="https://img.shields.io/badge/Currently-Learning%20Spring%20AI-6DB33F?style=for-the-badge&logo=spring" alt="Learning Spring AI"/>
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- ☕ Focused on Java backend development
-- 🌱 Learning and exploring Spring AI
-- 🏗️ Interested in Spring Boot, REST APIs, and microservices architecture
-- 🗄️ Working with MySQL and database-driven applications
-- ☁️ Exploring cloud technologies with AWS
-- 📨 Interested in event-driven systems and Apache Kafka
-- 🎯 Goal: Build production-ready backend systems and AI-powered applications
+I'm a Java backend developer interested in building maintainable applications, designing APIs, and exploring scalable backend architectures.
+
+- ☕ Working with the Java and Spring ecosystem
+- 🏗️ Interested in REST APIs and microservices
+- 🗄️ Exploring database-driven application development with MySQL
+- ☁️ Interested in cloud infrastructure and AWS
+- 📨 Exploring event-driven architecture with Apache Kafka
+- 🤖 Currently learning Spring AI and LLM-powered applications
+- 🎯 Goal: Build practical, production-minded backend projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technology Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-Learning-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### Databases and Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+</p>
+
+### Cloud and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Spring MySQL
-A repository for exploring Java applications and MySQL database integration.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Spring + MySQL</h3>
+      <p>Explore my Java and MySQL project.</p>
+      <a href="https://github.com/Biswaranjan7978/spring-mysql">
+        <img src="https://img.shields.io/badge/Explore%20Repository-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Spring MySQL"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💻 TestProject</h3>
+      <p>Explore my development and testing repository.</p>
+      <a href="https://github.com/Biswaranjan7978/TestProject">
+        <img src="https://img.shields.io/badge/Explore%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore TestProject"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Biswaranjan7978/spring-mysql)
-
-### 💻 TestProject
-A project repository for development, experimentation, and testing.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Biswaranjan7978/TestProject)
-
-### 🤖 Spring AI — Learning Journey
-Exploring AI integration in Java applications, including LLM-powered features and AI-enabled backend services.
-
-*Add your Spring AI project link here when it is ready.*
-
----
-
-## 📚 Currently Exploring
-
-- Spring AI and Large Language Model integration
-- AI-powered REST APIs using Spring Boot
-- Microservices design and communication
-- Kafka-based event-driven architecture
-- AWS deployment and cloud fundamentals
-- Backend testing, security, and clean architecture
+> Add a project-specific description, key features, architecture, and setup instructions to each repository as you develop it.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Analytics
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Biswaranjan7978-181717?style=for-the-badge&logo=github)](https://github.com/Biswaranjan7978)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biswaranjan7978&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswaranjan7978&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+</div>
 
 ---
 
-### 💬 Let's Connect
+## 🌱 Current Learning Journey
 
-I'm interested in backend engineering, distributed systems, and practical AI applications.
+| Area | Learning focus |
+|---|---|
+| Spring AI | LLM integration and AI-enabled applications |
+| Microservices | Service boundaries and inter-service communication |
+| Kafka | Event-driven architecture and messaging |
+| AWS | Cloud deployment and infrastructure fundamentals |
+| Backend quality | Testing, security, and maintainable code |
 
-Thanks for visiting my profile! ⭐
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Biswaranjan7978">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="Visit GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:243B55&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
