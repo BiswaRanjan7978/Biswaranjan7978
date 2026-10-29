@@ -1,4 +1,4 @@
-```html
+
 <!-- ========== COLORFUL PROFILE HEADER ========== -->
 
 <div align="center">
