@@ -82,4 +82,17 @@ I'm a Java backend developer interested in building maintainable applications, d
       </a>
     </td>
   </tr>
+  <tr>
+  <td width="50%">
+    <h3>🤖 AI Email Support Agent</h3>
+    <p>
+      An AI-powered email support application built using Java, Spring Boot,
+      Spring AI, and MCP integration.
+    </p>
+    <a href="https://github.com/BiswaRanjan7978/support-agent">
+      <img src="https://img.shields.io/badge/Explore%20Repository-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Support Agent"/>
+    </a>
+  </td>
+  <td width="50%"></td>
+</tr>
   
