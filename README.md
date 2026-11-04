@@ -93,10 +93,7 @@ I'm a Java backend developer interested in building maintainable applications, d
       <img src="https://img.shields.io/badge/Explore%20Repository-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Support Agent"/>
     </a>
   </td>
-  <td width="50%"></td>
-</tr>
-<tr>
-  <td width="50%">
+   <td width="50%">
     <h3>☁️ Spring Boot + AWS S3</h3>
     <p>
       A Spring Boot application integrated with Amazon S3
@@ -106,6 +103,6 @@ I'm a Java backend developer interested in building maintainable applications, d
       <img src="https://img.shields.io/badge/Explore%20Repository-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Explore AWS S3 Project"/>
     </a>
   </td>
-  <td width="50%"></td>
 </tr>
+
   
